@@ -1,5 +1,4 @@
-#Admin_Course
-
-#Course Admin
+# Admin_Course
+Course Admin
 
 This is note
